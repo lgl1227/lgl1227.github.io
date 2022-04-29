@@ -1,38 +1,223 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Alexの部落阁</title>
-  
+  <icon>https://www.gravatar.com/avatar/8c0e22c2d3f7ea419d7608d99b95a918</icon>
   
   <link href="https://www.iamlgl.top/atom.xml" rel="self"/>
   
   <link href="https://www.iamlgl.top/"/>
-  <updated>2022-04-27T08:32:08.543Z</updated>
+  <updated>2022-04-28T10:18:14.362Z</updated>
   <id>https://www.iamlgl.top/</id>
   
   <author>
     <name>Alex Valentine</name>
-    
+    <email>lgl1227404395@126.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>刷题记录</title>
+    <link href="https://www.iamlgl.top/code-record/shua-ti-ji-lu/"/>
+    <id>https://www.iamlgl.top/code-record/shua-ti-ji-lu/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-04-28T10:18:14.362Z</updated>
+    
+    <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
+    
+    
+    <summary type="html">LeetCode刷题</summary>
+    
+    
+    
+    <category term="刷题记录" scheme="https://www.iamlgl.top/categories/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="leetcode" scheme="https://www.iamlgl.top/tags/leetcode/"/>
+    
+    <category term="c++" scheme="https://www.iamlgl.top/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>DeepLearning占位</title>
+    <link href="https://www.iamlgl.top/deep-learning/record/"/>
+    <id>https://www.iamlgl.top/deep-learning/record/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-04-28T10:23:34.250Z</updated>
+    
+    <content type="html"><![CDATA[<p>占位</p>]]></content>
+    
+    
+    <summary type="html">DeepLearning占位</summary>
+    
+    
+    
+    <category term="深度学习" scheme="https://www.iamlgl.top/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="python" scheme="https://www.iamlgl.top/tags/python/"/>
+    
+    <category term="deeplearning" scheme="https://www.iamlgl.top/tags/deeplearning/"/>
+    
+    <category term="pytorch" scheme="https://www.iamlgl.top/tags/pytorch/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://www.iamlgl.top/2022/04/27/hello-world/"/>
-    <id>https://www.iamlgl.top/2022/04/27/hello-world/</id>
-    <published>2022-04-27T08:32:08.543Z</published>
-    <updated>2022-04-27T08:32:08.543Z</updated>
+    <link href="https://www.iamlgl.top/blog/hello-world/"/>
+    <id>https://www.iamlgl.top/blog/hello-world/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-04-28T09:28:44.148Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">hexo博客hello world</summary>
     
     
     
+    <category term="个人博客" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="hello world" scheme="https://www.iamlgl.top/tags/hello-world/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人Blog搭建-hexo+butterfly（一）</title>
+    <link href="https://www.iamlgl.top/blog/blog/"/>
+    <id>https://www.iamlgl.top/blog/blog/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-04-28T09:57:14.908Z</updated>
+    
+    <content type="html"><![CDATA[<p>##1</p><p>首先</p><p>##2</p><p>其次</p><p>##3<br>然后</p>]]></content>
+    
+    
+    <summary type="html">个人博客搭建笔记（一）</summary>
+    
+    
+    
+    <category term="个人博客" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="hexo" scheme="https://www.iamlgl.top/tags/hexo/"/>
+    
+    <category term="butterfly" scheme="https://www.iamlgl.top/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MachineLearning占位</title>
+    <link href="https://www.iamlgl.top/machine-learning/record/"/>
+    <id>https://www.iamlgl.top/machine-learning/record/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-04-28T10:24:24.793Z</updated>
+    
+    <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
+    
+    
+    <summary type="html">MachineLearning占位</summary>
+    
+    
+    
+    <category term="机器学习" scheme="https://www.iamlgl.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="python" scheme="https://www.iamlgl.top/tags/python/"/>
+    
+    <category term="machinelearning" scheme="https://www.iamlgl.top/tags/machinelearning/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人Blog搭建-hexo+butterfly（二）</title>
+    <link href="https://www.iamlgl.top/blog/blog2/"/>
+    <id>https://www.iamlgl.top/blog/blog2/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-04-28T10:02:04.060Z</updated>
+    
+    <content type="html"><![CDATA[<p>##1</p><p>首先</p><p>##2</p><p>其次</p><p>##3<br>然后</p>]]></content>
+    
+    
+    <summary type="html">个人博客搭建笔记（二）</summary>
+    
+    
+    
+    <category term="个人博客" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="hexo" scheme="https://www.iamlgl.top/tags/hexo/"/>
+    
+    <category term="butterfly" scheme="https://www.iamlgl.top/tags/butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>蓝奏云打不开解决方案</title>
+    <link href="https://www.iamlgl.top/personal-essay/slovelanzouyun/"/>
+    <id>https://www.iamlgl.top/personal-essay/slovelanzouyun/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-04-28T10:27:27.741Z</updated>
+    
+    <content type="html"><![CDATA[<p>一种可能是分享的下载地址失效了，实际上这种可能比较小，一般不会失效。</p><p>第二种可能也就是广为人之的蓝奏云打不开的情况，很多人在下载别人分享的蓝奏云链接的时候，存在打不开的情况。</p><p>现提供以下解决方案：</p><ul><li><p>1、删除链接前面的 “www.”</p></li><li><p>2、有时候电脑打不开，手机就可以，或手机连自家wifi打不开，换成数据流量或连别人家的wifi就可以。</p></li><li><p>3、”www”换成”pan”，或把“lanzous”中的”s”去掉，或换成i，或x等，有时会成功。</p></li><li><p>4、将“www”换成“iamlgl”，这是我网盘的二级域名，基本可以成功。</p></li></ul><p>注意：蓝奏云请使用浏览器打开，因为用微信打开是无法下载的。</p>]]></content>
+    
+    
+    <summary type="html">蓝奏云打不开解决方案</summary>
+    
+    
+    
+    <category term="个人随笔" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="蓝奏云" scheme="https://www.iamlgl.top/tags/%E8%93%9D%E5%A5%8F%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>秦时明月</title>
+    <link href="https://www.iamlgl.top/qinshimingyue/qin-shi-ming-yue/"/>
+    <id>https://www.iamlgl.top/qinshimingyue/qin-shi-ming-yue/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-04-29T08:40:21.320Z</updated>
+    
+    <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
+    
+    
+    <summary type="html">秦时明月</summary>
+    
+    
+    
+    <category term="秦时明月" scheme="https://www.iamlgl.top/categories/%E7%A7%A6%E6%97%B6%E6%98%8E%E6%9C%88/"/>
+    
+    
+    <category term="秦时明月" scheme="https://www.iamlgl.top/tags/%E7%A7%A6%E6%97%B6%E6%98%8E%E6%9C%88/"/>
+    
+    <category term="国漫" scheme="https://www.iamlgl.top/tags/%E5%9B%BD%E6%BC%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>天行九歌</title>
+    <link href="https://www.iamlgl.top/tianxingjiuge/tian-xing-jiu-ge/"/>
+    <id>https://www.iamlgl.top/tianxingjiuge/tian-xing-jiu-ge/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-04-28T10:29:43.053Z</updated>
+    
+    <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
+    
+    
+    <summary type="html">天行九歌</summary>
+    
+    
+    
+    <category term="天行九歌" scheme="https://www.iamlgl.top/categories/%E5%A4%A9%E8%A1%8C%E4%B9%9D%E6%AD%8C/"/>
+    
+    
+    <category term="国漫" scheme="https://www.iamlgl.top/tags/%E5%9B%BD%E6%BC%AB/"/>
+    
+    <category term="天行九歌" scheme="https://www.iamlgl.top/tags/%E5%A4%A9%E8%A1%8C%E4%B9%9D%E6%AD%8C/"/>
     
   </entry>
   
