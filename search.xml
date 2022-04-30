@@ -4,33 +4,6 @@
   
     
     <entry>
-      <title>刷题记录</title>
-      <link href="/code-record/shua-ti-ji-lu/"/>
-      <url>/code-record/shua-ti-ji-lu/</url>
-      
-        <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 刷题记录 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> leetcode </tag>
-            
-            <tag> c++ </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>个人Blog搭建-hexo+butterfly（一）</title>
       <link href="/blog/blog/"/>
       <url>/blog/blog/</url>
@@ -75,6 +48,33 @@
         <tags>
             
             <tag> hello world </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人Blog搭建-hexo+butterfly（二）</title>
+      <link href="/blog/blog2/"/>
+      <url>/blog/blog2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>首先</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>其次</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>然后</p><div class="table-container"><table><thead><tr><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&show_owner=true"/></a></th><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=vue&show_owner=true"/></a></th></tr></thead><tbody><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=buefy&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-light&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=onedark&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-dark&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=algolia&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=calm&show_owner=true"/></a></td></tr></tbody></table></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> butterfly </tag>
             
         </tags>
       
@@ -139,25 +139,48 @@
     
     
     <entry>
-      <title>个人Blog搭建-hexo+butterfly（二）</title>
-      <link href="/blog/blog2/"/>
-      <url>/blog/blog2/</url>
+      <title>从你的全世界路过有感</title>
+      <link href="/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/"/>
+      <url>/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/</url>
       
-        <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>首先</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>其次</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>然后</p><div class="table-container"><table><thead><tr><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&show_owner=true"/></a></th><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=vue&show_owner=true"/></a></th></tr></thead><tbody><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=buefy&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-light&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=onedark&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-dark&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=algolia&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=calm&show_owner=true"/></a></td></tr></tbody></table></div>]]></content>
+        <content type="html"><![CDATA[<p>四季总有一次凋零，结果无数次凋零。相爱总有一次分离，结果无数次分离。</p>]]></content>
       
       
       <categories>
           
-          <category> 个人博客 </category>
+          <category> 个人随笔 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> hexo </tag>
+            <tag> 从你的全世界路过 </tag>
             
-            <tag> butterfly </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>蓝奏云打不开解决方案</title>
+      <link href="/personal-essay/slovelanzouyun/"/>
+      <url>/personal-essay/slovelanzouyun/</url>
+      
+        <content type="html"><![CDATA[<p>一种可能是分享的下载地址失效了，实际上这种可能比较小，一般不会失效。</p><p>第二种可能也就是广为人之的蓝奏云打不开的情况，很多人在下载别人分享的蓝奏云链接的时候，存在打不开的情况。</p><p>现提供以下解决方案：</p><ul><li><p>1、删除链接前面的 “www.”</p></li><li><p>2、有时候电脑打不开，手机就可以，或手机连自家wifi打不开，换成数据流量或连别人家的wifi就可以。</p></li><li><p>3、”www”换成”pan”，或把“lanzous”中的”s”去掉，或换成i，或x等，有时会成功。</p></li><li><p>4、将“www”换成“iamlgl”，这是我网盘的二级域名，基本可以成功。</p></li></ul><p>注意：蓝奏云请使用浏览器打开，因为用微信打开是无法下载的。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 蓝奏云 </tag>
             
         </tags>
       
@@ -193,6 +216,33 @@
     
     
     <entry>
+      <title>刷题记录</title>
+      <link href="/code-record/shua-ti-ji-lu/"/>
+      <url>/code-record/shua-ti-ji-lu/</url>
+      
+        <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 刷题记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> leetcode </tag>
+            
+            <tag> c++ </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>天行九歌</title>
       <link href="/tianxingjiuge/tian-xing-jiu-ge/"/>
       <url>/tianxingjiuge/tian-xing-jiu-ge/</url>
@@ -212,56 +262,6 @@
             <tag> 国漫 </tag>
             
             <tag> 天行九歌 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>蓝奏云打不开解决方案</title>
-      <link href="/personal-essay/slovelanzouyun/"/>
-      <url>/personal-essay/slovelanzouyun/</url>
-      
-        <content type="html"><![CDATA[<p>一种可能是分享的下载地址失效了，实际上这种可能比较小，一般不会失效。</p><p>第二种可能也就是广为人之的蓝奏云打不开的情况，很多人在下载别人分享的蓝奏云链接的时候，存在打不开的情况。</p><p>现提供以下解决方案：</p><ul><li><p>1、删除链接前面的 “www.”</p></li><li><p>2、有时候电脑打不开，手机就可以，或手机连自家wifi打不开，换成数据流量或连别人家的wifi就可以。</p></li><li><p>3、”www”换成”pan”，或把“lanzous”中的”s”去掉，或换成i，或x等，有时会成功。</p></li><li><p>4、将“www”换成“iamlgl”，这是我网盘的二级域名，基本可以成功。</p></li></ul><p>注意：蓝奏云请使用浏览器打开，因为用微信打开是无法下载的。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 个人随笔 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 蓝奏云 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>从你的全世界路过有感</title>
-      <link href="/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/"/>
-      <url>/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/</url>
-      
-        <content type="html"><![CDATA[<p>四季总有一次凋零，结果无数次凋零。相爱总有一次分离，结果无数次分离。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 个人随笔 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 从你的全世界路过 </tag>
             
         </tags>
       
