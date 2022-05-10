@@ -6,7 +6,7 @@
   <link href="https://www.iamlgl.top/atom.xml" rel="self"/>
   
   <link href="https://www.iamlgl.top/"/>
-  <updated>2022-04-30T11:40:00.174Z</updated>
+  <updated>2022-05-06T02:32:54.190Z</updated>
   <id>https://www.iamlgl.top/</id>
   
   <author>
@@ -17,25 +17,44 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>MachineLearning占位</title>
-    <link href="https://www.iamlgl.top/machine-learning/record/"/>
-    <id>https://www.iamlgl.top/machine-learning/record/</id>
-    <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-04-30T11:40:00.174Z</updated>
+    <title>教你一招，轻松激活WinRAR</title>
+    <link href="https://www.iamlgl.top/personal-essay/jiao-ni-yi-zhao-qing-song-ji-huo-winrar/"/>
+    <id>https://www.iamlgl.top/personal-essay/jiao-ni-yi-zhao-qing-song-ji-huo-winrar/</id>
+    <published>2022-05-05T16:00:00.000Z</published>
+    <updated>2022-05-06T02:32:54.190Z</updated>
     
-    <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
-    
-    
-    <summary type="html">MachineLearning占位</summary>
+    <content type="html"><![CDATA[<h1 id="教你一招，轻松激活WinRAR"><a href="#教你一招，轻松激活WinRAR" class="headerlink" title="教你一招，轻松激活WinRAR"></a>教你一招，轻松激活WinRAR</h1><p>参考<a href="https://zhuanlan.zhihu.com/p/78429874">教你一招，轻松激活Winrar</a></p><h2 id="找到WinRAR的安装目录"><a href="#找到WinRAR的安装目录" class="headerlink" title="找到WinRAR的安装目录"></a>找到WinRAR的安装目录</h2><p>默认为：C盘\Program Files\WinRAR，如果手动选择了其他路径，请自行查找。</p><p>我将WinRAR安装在D盘\WinRAR目录下。</p><p><img src="\images\教你一招，轻松激活WinRAR\1.png" alt=""></p><h2 id="破解代码激活"><a href="#破解代码激活" class="headerlink" title="破解代码激活"></a>破解代码激活</h2><p>在桌面新建一个TXT文档，将以下代码复制进去，然后点击左上角另存为<code>rarreg.key</code>。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">RAR registration data</span><br><span class="line"></span><br><span class="line">Federal Agency for Education</span><br><span class="line"></span><br><span class="line">1000000 PC usage license</span><br><span class="line"></span><br><span class="line">UID=b621cca9a84bc5deffbf</span><br><span class="line"></span><br><span class="line">6412612250ffbf533df6db2dfe8ccc3aae5362c06d54762105357d</span><br><span class="line"></span><br><span class="line">5e3b1489e751c76bf6e0640001014be50a52303fed29664b074145</span><br><span class="line"></span><br><span class="line">7e567d04159ad8defc3fb6edf32831fd1966f72c21c0c53c02fbbb</span><br><span class="line"></span><br><span class="line">2f91cfca671d9c482b11b8ac3281cb21378e85606494da349941fa</span><br><span class="line"></span><br><span class="line">e9ee328f12dc73e90b6356b921fbfb8522d6562a6a4b97e8ef6c9f</span><br><span class="line"></span><br><span class="line">fb866be1e3826b5aa126a4d2bfe9336ad63003fc0e71c307fc2c60</span><br><span class="line"></span><br><span class="line">64416495d4c55a0cc82d402110498da970812063934815d81470829275</span><br></pre></td></tr></table></figure><p><img src="\images\教你一招，轻松激活WinRAR\2.png" alt=""></p><h2 id="替换"><a href="#替换" class="headerlink" title="替换"></a>替换</h2><p>将<code>rarreg.key</code>拖入到WinRAR的安装目录下，若存在相同文件则替换。如果需要管理员权限，同样给予管理员权限。最后,随便打开一个压缩包,<code>帮助-&gt;关于WinRAR</code>,查看注册信息,成功。</p><p><img src="\images\教你一招，轻松激活WinRAR\3.png" alt=""></p>]]></content>
     
     
+    <summary type="html">教你一招，轻松激活WinRAR</summary>
     
-    <category term="机器学习" scheme="https://www.iamlgl.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="python" scheme="https://www.iamlgl.top/tags/python/"/>
+    <category term="个人随笔" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="machinelearning" scheme="https://www.iamlgl.top/tags/machinelearning/"/>
+    
+    <category term="教你一招，轻松激活WinRAR" scheme="https://www.iamlgl.top/tags/%E6%95%99%E4%BD%A0%E4%B8%80%E6%8B%9B%EF%BC%8C%E8%BD%BB%E6%9D%BE%E6%BF%80%E6%B4%BBWinRAR/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VSCode源码编译</title>
+    <link href="https://www.iamlgl.top/personal-essay/vs-code-yuan-ma-bian-yi/"/>
+    <id>https://www.iamlgl.top/personal-essay/vs-code-yuan-ma-bian-yi/</id>
+    <published>2022-05-03T16:00:00.000Z</published>
+    <updated>2022-05-04T05:52:04.425Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="VS-Code源码编译"><a href="#VS-Code源码编译" class="headerlink" title="VS Code源码编译"></a>VS Code源码编译</h1><p>帮助1. <a href="&quot;https://blog.csdn.net/sumtre_w/article/details/105174934&quot;">vscode源码编译记录</a></p><p>帮助2. <a href="https://www.bilibili.com/video/BV1Df4y1k7Qm?spm_id_from=333.880.my_history.page.click">从零开始编译VSCode源代码</a></p><h2 id="依赖工具"><a href="#依赖工具" class="headerlink" title="依赖工具"></a>依赖工具</h2><ul><li><p>Git</p></li><li><p>NodeJS x64 version<code>&gt;=14.17.4 and &lt; 17</code></p></li><li><p>yarn</p></li><li><p>Python(需要node-gyp支持的版本)</p><p><strong>注意:</strong> Windows 用户将通过安装<code>windows-build-tools</code>npm 模块自动安装 Python</p></li><li><p>Win10/Win11<br>  1.通过安装Visual Studio Build Tools或Visual Studio Community Edition来安装 Visual C++ Build Environment 。安装的最小工作量是“使用 C++ 进行桌面开发”。<br>  2.打开命令提示符并运行<code>npm config set msvs_version 2019</code></p></li></ul><h2 id="故障排除"><a href="#故障排除" class="headerlink" title="故障排除"></a>故障排除</h2><p>如果出现问题，请先尝试删除~/.node-gyp（或者~/.cache/node-gyp对于 Linux、~/Library/Caches/node-gyp/macOS 或%USERPROFILE%\AppData\Local\node-gypWindows）的内容，然后运行<code>yarn cache clean</code>，然后重试。</p><p>如果您在 Windows 或 Linux 64 位系统上并希望编译为 32 位，则需要在运行之前将npm_config_arch环境变量设置为. 这将为 32 位架构编译所有本机节点模块。同样，在为 ARM 进行交叉编译时，设置为.ia32yarnnpm_config_archarm</p><p>注意：有关如何在 UNIX 系统上全局安装 NPM 模块而不求助于 的更多信息sudo，请参阅本指南。</p><p>如果您安装了 Visual Studio 2019，则在使用默认版本的 node-gyp 时可能会遇到问题。如果您安装了 Visual Studio 2019，您可能需要遵循此处的解决方案</p><h2 id="安装工具"><a href="#安装工具" class="headerlink" title="安装工具"></a>安装工具</h2><p>Git的安装直接下一步就行，最后Finish就行</p><p>nodejs安装也是直接下一步，最后Finish</p><p>yarn的安装，运行命令<code>npm install --global yarn</code></p><p>手动安装一下node-gyp 运行命令<code>npm install -g node-gyp</code></p><p>Python3.8.1 安装并配置环境变量</p><p>vs_BuildTools安装，选择”使用 C++ 进行桌面开发“，然后等待安装完成</p><p><img src="/images/VSCode源码编译Img/1.png" alt=""></p><p>Visual Studio 生成工具2019</p><h2 id="源码编译"><a href="#源码编译" class="headerlink" title="源码编译"></a>源码编译</h2><h3 id="1-下载源码"><a href="#1-下载源码" class="headerlink" title="1 下载源码"></a>1 下载源码</h3><p><img src="/images/VSCode源码编译Img/2.png" alt=""></p><h3 id="2-yarnrc内容修改（两个-根目录下的-yarnrc与remote目录下的-yarnrc）"><a href="#2-yarnrc内容修改（两个-根目录下的-yarnrc与remote目录下的-yarnrc）" class="headerlink" title="2 .yarnrc内容修改（两个 根目录下的.yarnrc与remote目录下的.yarnrc）"></a>2 .yarnrc内容修改（两个 根目录下的<code>.yarnrc</code>与<code>remote</code>目录下的<code>.yarnrc</code>）</h3><p><img src="/images/VSCode源码编译Img/3.png" alt=""></p><p><code>.yarnrc</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">registry &quot;https://registry.npm.taobao.org&quot;</span><br><span class="line">sass_binary_site &quot;https://npm.taobao.org/mirrors/node-sass/&quot;</span><br><span class="line">phantomjs_cdnurl &quot;https://cnpmjs.org/downloads&quot;</span><br><span class="line">electron_mirror &quot;https://npm.taobao.org/mirrors/electron/&quot;</span><br><span class="line">sqlite3_binary_host_mirror &quot;https://foxgis.oss-cn-shanghai.aliyuncs.com/&quot;</span><br><span class="line">profiler_binary_host_mirror &quot;https://npm.taobao.org/mirrors/node-inspector/&quot;</span><br><span class="line">chromedriver_cdnurl &quot;https://cdn.npm.taobao.org/dist/chromedriver&quot;</span><br></pre></td></tr></table></figure><h3 id="3-配置镜像"><a href="#3-配置镜像" class="headerlink" title="3 配置镜像"></a>3 配置镜像</h3><p><img src="/images/VSCode源码编译Img/4.png" alt=""></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">yarn.cmd config delete proxy</span><br><span class="line">npm config <span class="built_in">rm</span> proxy</span><br><span class="line">npm config <span class="built_in">rm</span> https-proxy</span><br><span class="line">npm config <span class="built_in">set</span> registry https://registry.npm.taobao.org</span><br><span class="line">yarn.cmd config <span class="built_in">set</span> registry https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure><h3 id="4-编译运行"><a href="#4-编译运行" class="headerlink" title="4 编译运行"></a>4 编译运行</h3><p>在cmd里运行命令<code>yarn</code>或者<code>yarn install</code>，然后等待完成。</p><p><img src="/images/VSCode源码编译Img/5.png" alt=""></p><p>若有报错，自行查询，或者多试几次<code>yarn</code>。记得用<strong>故障排除</strong>清理掉node-gyp</p><p><img src="/images/VSCode源码编译Img/6.png" alt=""></p><p>最后出现这种结果才能继续</p><p><img src="/images/VSCode源码编译Img/7.png" alt=""></p><p>运行<code>.\scripts\code.bat</code></p><p><img src="/images/VSCode源码编译Img/8.png" alt=""></p><h3 id="5-成功结果"><a href="#5-成功结果" class="headerlink" title="5 成功结果"></a>5 成功结果</h3><p><img src="/images/VSCode源码编译Img/9.png" alt=""></p>]]></content>
+    
+    
+    <summary type="html">VSCode源码编译</summary>
+    
+    
+    
+    <category term="个人随笔" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="VSCode源码编译" scheme="https://www.iamlgl.top/tags/VSCode%E6%BA%90%E7%A0%81%E7%BC%96%E8%AF%91/"/>
     
   </entry>
   
@@ -44,7 +63,7 @@
     <link href="https://www.iamlgl.top/blog/blog/"/>
     <id>https://www.iamlgl.top/blog/blog/</id>
     <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-04-30T11:42:21.776Z</updated>
+    <updated>2022-05-02T02:08:06.593Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>首先</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>其次</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>然后<br><br></p><script type="math/tex; mode=display">    H_{n}=\frac{n}{\sum \limits_{i=1}^{n}\frac{1}{x_{i}}}= \frac{n}{\frac{1}{x_{1}}+ \frac{1}{x_{2}}+ \cdots + \frac{1}{x_{n}}}\\</script><script type="math/tex; mode=display">    G_{n}=\sqrt[n]{\prod \limits_{i=1}^{n}x_{i}}= \sqrt[n]{x_{1}x_{2}\cdots x_{n}}\\</script><script type="math/tex; mode=display">      A_{n}=\frac{1}{n}\sum \limits_{i=1}^{n}x_{i}=\frac{x_{1}+ x_{2}+ \cdots + x_{n}}{n}\\</script><script type="math/tex; mode=display">    Q_{n}=\sqrt{\sum \limits_{i=1}^{n}x_{i}^{2}}= \sqrt{\frac{x_{1}^{2}+ x_{2}^{2}+ \cdots + x_{n}^{2}}{n}}\\</script><script type="math/tex; mode=display">    H_{n}\leq G_{n}\leq A_{n}\leq Q_{n}</script><p><br><br>臣亮言：<mark class="hl-label default">先帝</mark> 创业未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此诚<mark class="hl-label red">危急存亡之秋</mark> 也！然侍卫之臣，不懈于内；<mark class="hl-label purple">忠志之士</mark> ，忘身于外者，盖追先帝之殊遇，欲报之于陛下也。诚宜开张圣听，以光先帝遗德，恢弘志士之气；不宜妄自菲薄，引喻失义，以塞忠谏之路也。<br>宫中、府中，俱为一体；陟罚臧否，不宜异同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及为忠善者，宜付有司，论其刑赏，以昭陛下平明之治；不宜偏私，使内外异法也。</p>]]></content>
     
@@ -67,7 +86,7 @@
     <link href="https://www.iamlgl.top/blog/hello-world/"/>
     <id>https://www.iamlgl.top/blog/hello-world/</id>
     <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-04-30T11:39:47.360Z</updated>
+    <updated>2022-05-02T02:08:19.764Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -88,7 +107,7 @@
     <link href="https://www.iamlgl.top/blog/blog2/"/>
     <id>https://www.iamlgl.top/blog/blog2/</id>
     <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-04-30T06:38:50.002Z</updated>
+    <updated>2022-05-02T02:08:12.617Z</updated>
     
     <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>首先</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>其次</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>然后</p><div class="table-container"><table><thead><tr><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&show_owner=true"/></a></th><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=vue&show_owner=true"/></a></th></tr></thead><tbody><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=buefy&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-light&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=onedark&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-dark&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=algolia&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=calm&show_owner=true"/></a></td></tr></tbody></table></div>]]></content>
     
@@ -111,7 +130,7 @@
     <link href="https://www.iamlgl.top/code-record/shua-ti-ji-lu/"/>
     <id>https://www.iamlgl.top/code-record/shua-ti-ji-lu/</id>
     <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-04-30T11:38:53.392Z</updated>
+    <updated>2022-05-02T02:04:28.248Z</updated>
     
     <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
     
@@ -134,7 +153,7 @@
     <link href="https://www.iamlgl.top/deep-learning/record/"/>
     <id>https://www.iamlgl.top/deep-learning/record/</id>
     <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-04-30T11:39:17.823Z</updated>
+    <updated>2022-05-02T02:04:39.169Z</updated>
     
     <content type="html"><![CDATA[<p>占位</p>]]></content>
     
@@ -155,44 +174,25 @@
   </entry>
   
   <entry>
-    <title>蓝奏云打不开解决方案</title>
-    <link href="https://www.iamlgl.top/personal-essay/slovelanzouyun/"/>
-    <id>https://www.iamlgl.top/personal-essay/slovelanzouyun/</id>
+    <title>MachineLearning占位</title>
+    <link href="https://www.iamlgl.top/machine-learning/record/"/>
+    <id>https://www.iamlgl.top/machine-learning/record/</id>
     <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-04-30T13:10:44.325Z</updated>
+    <updated>2022-05-02T02:04:50.042Z</updated>
     
-    <content type="html"><![CDATA[<p>一种可能是分享的下载地址失效了，实际上这种可能比较小，一般不会失效。</p><p>第二种可能也就是广为人之的蓝奏云打不开的情况，很多人在下载别人分享的蓝奏云链接的时候，存在打不开的情况。</p><p>现提供以下解决方案：</p><ul><li><p>1、删除链接前面的 “www.”</p></li><li><p>2、有时候电脑打不开，手机就可以，或手机连自家wifi打不开，换成数据流量或连别人家的wifi就可以。</p></li><li><p>3、”www”换成”pan”，或把“lanzous”中的”s”去掉，或换成i，或x等，有时会成功。</p></li><li><p>4、将“www”换成“iamlgl”，这是我网盘的二级域名，基本可以成功。</p></li></ul><p>注意：蓝奏云请使用浏览器打开，因为用微信打开是无法下载的。</p>]]></content>
-    
-    
-    <summary type="html">蓝奏云打不开解决方案</summary>
+    <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
     
     
-    
-    <category term="个人随笔" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="蓝奏云" scheme="https://www.iamlgl.top/tags/%E8%93%9D%E5%A5%8F%E4%BA%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>从你的全世界路过有感</title>
-    <link href="https://www.iamlgl.top/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/"/>
-    <id>https://www.iamlgl.top/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/</id>
-    <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-04-30T13:11:38.595Z</updated>
-    
-    <content type="html"><![CDATA[<p>四季总有一次凋零，结果无数次凋零。相爱总有一次分离，结果无数次分离。</p>]]></content>
-    
-    
-    <summary type="html">从你的全世界路过有感</summary>
+    <summary type="html">MachineLearning占位</summary>
     
     
     
-    <category term="个人随笔" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    <category term="机器学习" scheme="https://www.iamlgl.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="从你的全世界路过" scheme="https://www.iamlgl.top/tags/%E4%BB%8E%E4%BD%A0%E7%9A%84%E5%85%A8%E4%B8%96%E7%95%8C%E8%B7%AF%E8%BF%87/"/>
+    <category term="python" scheme="https://www.iamlgl.top/tags/python/"/>
+    
+    <category term="machinelearning" scheme="https://www.iamlgl.top/tags/machinelearning/"/>
     
   </entry>
   
@@ -201,7 +201,7 @@
     <link href="https://www.iamlgl.top/qinshimingyue/qin-shi-ming-yue/"/>
     <id>https://www.iamlgl.top/qinshimingyue/qin-shi-ming-yue/</id>
     <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-04-29T08:40:21.320Z</updated>
+    <updated>2022-05-02T02:05:10.284Z</updated>
     
     <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
     
@@ -220,11 +220,32 @@
   </entry>
   
   <entry>
+    <title>蓝奏云打不开解决方案</title>
+    <link href="https://www.iamlgl.top/personal-essay/slovelanzouyun/"/>
+    <id>https://www.iamlgl.top/personal-essay/slovelanzouyun/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-05-02T02:04:55.634Z</updated>
+    
+    <content type="html"><![CDATA[<p>一种可能是分享的下载地址失效了，实际上这种可能比较小，一般不会失效。</p><p>第二种可能也就是广为人之的蓝奏云打不开的情况，很多人在下载别人分享的蓝奏云链接的时候，存在打不开的情况。</p><p>现提供以下解决方案：</p><ul><li><p>1、删除链接前面的 “www.”</p></li><li><p>2、有时候电脑打不开，手机就可以，或手机连自家wifi打不开，换成数据流量或连别人家的wifi就可以。</p></li><li><p>3、”www”换成”pan”，或把“lanzous”中的”s”去掉，或换成i，或x等，有时会成功。</p></li><li><p>4、将“www”换成“iamlgl”，这是我网盘的二级域名，基本可以成功。</p></li></ul><p>注意：蓝奏云请使用浏览器打开，因为用微信打开是无法下载的。</p>]]></content>
+    
+    
+    <summary type="html">蓝奏云打不开解决方案</summary>
+    
+    
+    
+    <category term="个人随笔" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="蓝奏云" scheme="https://www.iamlgl.top/tags/%E8%93%9D%E5%A5%8F%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>天行九歌</title>
     <link href="https://www.iamlgl.top/tianxingjiuge/tian-xing-jiu-ge/"/>
     <id>https://www.iamlgl.top/tianxingjiuge/tian-xing-jiu-ge/</id>
     <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-04-30T13:08:42.562Z</updated>
+    <updated>2022-05-02T02:05:15.713Z</updated>
     
     <content type="html"><![CDATA[<p>天行九歌，是秦时明月升起于苍穹之前的号角声，是战国末年一幕冰与火的悲歌，是烧脑挑战智商的权谋史诗！</p><p>面对着强邻秦国的步步紧逼，危若累卵的韩国却依然黑幕重重。大将军姬无夜依靠手下“夜幕四凶将”，垄断了韩国的军事、政治、经济……几乎一切领域，并且有计划地扑灭所有可能带领韩国复兴的希望。面对如此残酷的局面，从齐国学成归来的王室子弟韩非，凭着惊才绝艳的智慧，与鬼谷传人卫庄联手组建了体现法家精神的“流沙”组织，带领张良、紫女等人与姬无夜的黑暗势力进行了惊心动魄的对决。</p><p>“天行九歌”虽是“秦时明月”的姐妹篇，却自成体系，不但融合了悬疑推理、宫斗阴谋、间谍反间等等高智商的剧情，而且大胆探索中国动画前所未有的领域，尝试将高大上的学术理念以现代娱乐的方式呈现给观众，其中的金融战、博弈论等等，更是中国动画中的首创，绝对会带给观众完全不同以往的全新体验。</p>]]></content>
     
@@ -239,6 +260,27 @@
     <category term="国漫" scheme="https://www.iamlgl.top/tags/%E5%9B%BD%E6%BC%AB/"/>
     
     <category term="天行九歌" scheme="https://www.iamlgl.top/tags/%E5%A4%A9%E8%A1%8C%E4%B9%9D%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从你的全世界路过有感</title>
+    <link href="https://www.iamlgl.top/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/"/>
+    <id>https://www.iamlgl.top/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-05-02T02:05:03.421Z</updated>
+    
+    <content type="html"><![CDATA[<p>四季总有一次凋零，结果无数次凋零。相爱总有一次分离，结果无数次分离。</p>]]></content>
+    
+    
+    <summary type="html">从你的全世界路过有感</summary>
+    
+    
+    
+    <category term="个人随笔" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="从你的全世界路过" scheme="https://www.iamlgl.top/tags/%E4%BB%8E%E4%BD%A0%E7%9A%84%E5%85%A8%E4%B8%96%E7%95%8C%E8%B7%AF%E8%BF%87/"/>
     
   </entry>
   

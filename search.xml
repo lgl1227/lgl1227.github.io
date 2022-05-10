@@ -4,25 +4,48 @@
   
     
     <entry>
-      <title>MachineLearning占位</title>
-      <link href="/machine-learning/record/"/>
-      <url>/machine-learning/record/</url>
+      <title>教你一招，轻松激活WinRAR</title>
+      <link href="/personal-essay/jiao-ni-yi-zhao-qing-song-ji-huo-winrar/"/>
+      <url>/personal-essay/jiao-ni-yi-zhao-qing-song-ji-huo-winrar/</url>
       
-        <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="教你一招，轻松激活WinRAR"><a href="#教你一招，轻松激活WinRAR" class="headerlink" title="教你一招，轻松激活WinRAR"></a>教你一招，轻松激活WinRAR</h1><p>参考<a href="https://zhuanlan.zhihu.com/p/78429874">教你一招，轻松激活Winrar</a></p><h2 id="找到WinRAR的安装目录"><a href="#找到WinRAR的安装目录" class="headerlink" title="找到WinRAR的安装目录"></a>找到WinRAR的安装目录</h2><p>默认为：C盘\Program Files\WinRAR，如果手动选择了其他路径，请自行查找。</p><p>我将WinRAR安装在D盘\WinRAR目录下。</p><p><img src="\images\教你一招，轻松激活WinRAR\1.png" alt=""></p><h2 id="破解代码激活"><a href="#破解代码激活" class="headerlink" title="破解代码激活"></a>破解代码激活</h2><p>在桌面新建一个TXT文档，将以下代码复制进去，然后点击左上角另存为<code>rarreg.key</code>。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line">RAR registration data</span><br><span class="line"></span><br><span class="line">Federal Agency for Education</span><br><span class="line"></span><br><span class="line">1000000 PC usage license</span><br><span class="line"></span><br><span class="line">UID=b621cca9a84bc5deffbf</span><br><span class="line"></span><br><span class="line">6412612250ffbf533df6db2dfe8ccc3aae5362c06d54762105357d</span><br><span class="line"></span><br><span class="line">5e3b1489e751c76bf6e0640001014be50a52303fed29664b074145</span><br><span class="line"></span><br><span class="line">7e567d04159ad8defc3fb6edf32831fd1966f72c21c0c53c02fbbb</span><br><span class="line"></span><br><span class="line">2f91cfca671d9c482b11b8ac3281cb21378e85606494da349941fa</span><br><span class="line"></span><br><span class="line">e9ee328f12dc73e90b6356b921fbfb8522d6562a6a4b97e8ef6c9f</span><br><span class="line"></span><br><span class="line">fb866be1e3826b5aa126a4d2bfe9336ad63003fc0e71c307fc2c60</span><br><span class="line"></span><br><span class="line">64416495d4c55a0cc82d402110498da970812063934815d81470829275</span><br></pre></td></tr></table></figure><p><img src="\images\教你一招，轻松激活WinRAR\2.png" alt=""></p><h2 id="替换"><a href="#替换" class="headerlink" title="替换"></a>替换</h2><p>将<code>rarreg.key</code>拖入到WinRAR的安装目录下，若存在相同文件则替换。如果需要管理员权限，同样给予管理员权限。最后,随便打开一个压缩包,<code>帮助-&gt;关于WinRAR</code>,查看注册信息,成功。</p><p><img src="\images\教你一招，轻松激活WinRAR\3.png" alt=""></p>]]></content>
       
       
       <categories>
           
-          <category> 机器学习 </category>
+          <category> 个人随笔 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> python </tag>
+            <tag> 教你一招，轻松激活WinRAR </tag>
             
-            <tag> machinelearning </tag>
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>VSCode源码编译</title>
+      <link href="/personal-essay/vs-code-yuan-ma-bian-yi/"/>
+      <url>/personal-essay/vs-code-yuan-ma-bian-yi/</url>
+      
+        <content type="html"><![CDATA[<h1 id="VS-Code源码编译"><a href="#VS-Code源码编译" class="headerlink" title="VS Code源码编译"></a>VS Code源码编译</h1><p>帮助1. <a href="&quot;https://blog.csdn.net/sumtre_w/article/details/105174934&quot;">vscode源码编译记录</a></p><p>帮助2. <a href="https://www.bilibili.com/video/BV1Df4y1k7Qm?spm_id_from=333.880.my_history.page.click">从零开始编译VSCode源代码</a></p><h2 id="依赖工具"><a href="#依赖工具" class="headerlink" title="依赖工具"></a>依赖工具</h2><ul><li><p>Git</p></li><li><p>NodeJS x64 version<code>&gt;=14.17.4 and &lt; 17</code></p></li><li><p>yarn</p></li><li><p>Python(需要node-gyp支持的版本)</p><p><strong>注意:</strong> Windows 用户将通过安装<code>windows-build-tools</code>npm 模块自动安装 Python</p></li><li><p>Win10/Win11<br>  1.通过安装Visual Studio Build Tools或Visual Studio Community Edition来安装 Visual C++ Build Environment 。安装的最小工作量是“使用 C++ 进行桌面开发”。<br>  2.打开命令提示符并运行<code>npm config set msvs_version 2019</code></p></li></ul><h2 id="故障排除"><a href="#故障排除" class="headerlink" title="故障排除"></a>故障排除</h2><p>如果出现问题，请先尝试删除~/.node-gyp（或者~/.cache/node-gyp对于 Linux、~/Library/Caches/node-gyp/macOS 或%USERPROFILE%\AppData\Local\node-gypWindows）的内容，然后运行<code>yarn cache clean</code>，然后重试。</p><p>如果您在 Windows 或 Linux 64 位系统上并希望编译为 32 位，则需要在运行之前将npm_config_arch环境变量设置为. 这将为 32 位架构编译所有本机节点模块。同样，在为 ARM 进行交叉编译时，设置为.ia32yarnnpm_config_archarm</p><p>注意：有关如何在 UNIX 系统上全局安装 NPM 模块而不求助于 的更多信息sudo，请参阅本指南。</p><p>如果您安装了 Visual Studio 2019，则在使用默认版本的 node-gyp 时可能会遇到问题。如果您安装了 Visual Studio 2019，您可能需要遵循此处的解决方案</p><h2 id="安装工具"><a href="#安装工具" class="headerlink" title="安装工具"></a>安装工具</h2><p>Git的安装直接下一步就行，最后Finish就行</p><p>nodejs安装也是直接下一步，最后Finish</p><p>yarn的安装，运行命令<code>npm install --global yarn</code></p><p>手动安装一下node-gyp 运行命令<code>npm install -g node-gyp</code></p><p>Python3.8.1 安装并配置环境变量</p><p>vs_BuildTools安装，选择”使用 C++ 进行桌面开发“，然后等待安装完成</p><p><img src="/images/VSCode源码编译Img/1.png" alt=""></p><p>Visual Studio 生成工具2019</p><h2 id="源码编译"><a href="#源码编译" class="headerlink" title="源码编译"></a>源码编译</h2><h3 id="1-下载源码"><a href="#1-下载源码" class="headerlink" title="1 下载源码"></a>1 下载源码</h3><p><img src="/images/VSCode源码编译Img/2.png" alt=""></p><h3 id="2-yarnrc内容修改（两个-根目录下的-yarnrc与remote目录下的-yarnrc）"><a href="#2-yarnrc内容修改（两个-根目录下的-yarnrc与remote目录下的-yarnrc）" class="headerlink" title="2 .yarnrc内容修改（两个 根目录下的.yarnrc与remote目录下的.yarnrc）"></a>2 .yarnrc内容修改（两个 根目录下的<code>.yarnrc</code>与<code>remote</code>目录下的<code>.yarnrc</code>）</h3><p><img src="/images/VSCode源码编译Img/3.png" alt=""></p><p><code>.yarnrc</code></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">registry &quot;https://registry.npm.taobao.org&quot;</span><br><span class="line">sass_binary_site &quot;https://npm.taobao.org/mirrors/node-sass/&quot;</span><br><span class="line">phantomjs_cdnurl &quot;https://cnpmjs.org/downloads&quot;</span><br><span class="line">electron_mirror &quot;https://npm.taobao.org/mirrors/electron/&quot;</span><br><span class="line">sqlite3_binary_host_mirror &quot;https://foxgis.oss-cn-shanghai.aliyuncs.com/&quot;</span><br><span class="line">profiler_binary_host_mirror &quot;https://npm.taobao.org/mirrors/node-inspector/&quot;</span><br><span class="line">chromedriver_cdnurl &quot;https://cdn.npm.taobao.org/dist/chromedriver&quot;</span><br></pre></td></tr></table></figure><h3 id="3-配置镜像"><a href="#3-配置镜像" class="headerlink" title="3 配置镜像"></a>3 配置镜像</h3><p><img src="/images/VSCode源码编译Img/4.png" alt=""></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">yarn.cmd config delete proxy</span><br><span class="line">npm config <span class="built_in">rm</span> proxy</span><br><span class="line">npm config <span class="built_in">rm</span> https-proxy</span><br><span class="line">npm config <span class="built_in">set</span> registry https://registry.npm.taobao.org</span><br><span class="line">yarn.cmd config <span class="built_in">set</span> registry https://registry.npm.taobao.org</span><br></pre></td></tr></table></figure><h3 id="4-编译运行"><a href="#4-编译运行" class="headerlink" title="4 编译运行"></a>4 编译运行</h3><p>在cmd里运行命令<code>yarn</code>或者<code>yarn install</code>，然后等待完成。</p><p><img src="/images/VSCode源码编译Img/5.png" alt=""></p><p>若有报错，自行查询，或者多试几次<code>yarn</code>。记得用<strong>故障排除</strong>清理掉node-gyp</p><p><img src="/images/VSCode源码编译Img/6.png" alt=""></p><p>最后出现这种结果才能继续</p><p><img src="/images/VSCode源码编译Img/7.png" alt=""></p><p>运行<code>.\scripts\code.bat</code></p><p><img src="/images/VSCode源码编译Img/8.png" alt=""></p><h3 id="5-成功结果"><a href="#5-成功结果" class="headerlink" title="5 成功结果"></a>5 成功结果</h3><p><img src="/images/VSCode源码编译Img/9.png" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> VSCode源码编译 </tag>
             
         </tags>
       
@@ -166,48 +189,25 @@
     
     
     <entry>
-      <title>蓝奏云打不开解决方案</title>
-      <link href="/personal-essay/slovelanzouyun/"/>
-      <url>/personal-essay/slovelanzouyun/</url>
+      <title>MachineLearning占位</title>
+      <link href="/machine-learning/record/"/>
+      <url>/machine-learning/record/</url>
       
-        <content type="html"><![CDATA[<p>一种可能是分享的下载地址失效了，实际上这种可能比较小，一般不会失效。</p><p>第二种可能也就是广为人之的蓝奏云打不开的情况，很多人在下载别人分享的蓝奏云链接的时候，存在打不开的情况。</p><p>现提供以下解决方案：</p><ul><li><p>1、删除链接前面的 “www.”</p></li><li><p>2、有时候电脑打不开，手机就可以，或手机连自家wifi打不开，换成数据流量或连别人家的wifi就可以。</p></li><li><p>3、”www”换成”pan”，或把“lanzous”中的”s”去掉，或换成i，或x等，有时会成功。</p></li><li><p>4、将“www”换成“iamlgl”，这是我网盘的二级域名，基本可以成功。</p></li></ul><p>注意：蓝奏云请使用浏览器打开，因为用微信打开是无法下载的。</p>]]></content>
+        <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
       
       
       <categories>
           
-          <category> 个人随笔 </category>
+          <category> 机器学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 蓝奏云 </tag>
+            <tag> python </tag>
             
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>从你的全世界路过有感</title>
-      <link href="/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/"/>
-      <url>/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/</url>
-      
-        <content type="html"><![CDATA[<p>四季总有一次凋零，结果无数次凋零。相爱总有一次分离，结果无数次分离。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 个人随笔 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 从你的全世界路过 </tag>
+            <tag> machinelearning </tag>
             
         </tags>
       
@@ -243,6 +243,31 @@
     
     
     <entry>
+      <title>蓝奏云打不开解决方案</title>
+      <link href="/personal-essay/slovelanzouyun/"/>
+      <url>/personal-essay/slovelanzouyun/</url>
+      
+        <content type="html"><![CDATA[<p>一种可能是分享的下载地址失效了，实际上这种可能比较小，一般不会失效。</p><p>第二种可能也就是广为人之的蓝奏云打不开的情况，很多人在下载别人分享的蓝奏云链接的时候，存在打不开的情况。</p><p>现提供以下解决方案：</p><ul><li><p>1、删除链接前面的 “www.”</p></li><li><p>2、有时候电脑打不开，手机就可以，或手机连自家wifi打不开，换成数据流量或连别人家的wifi就可以。</p></li><li><p>3、”www”换成”pan”，或把“lanzous”中的”s”去掉，或换成i，或x等，有时会成功。</p></li><li><p>4、将“www”换成“iamlgl”，这是我网盘的二级域名，基本可以成功。</p></li></ul><p>注意：蓝奏云请使用浏览器打开，因为用微信打开是无法下载的。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 蓝奏云 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>天行九歌</title>
       <link href="/tianxingjiuge/tian-xing-jiu-ge/"/>
       <url>/tianxingjiuge/tian-xing-jiu-ge/</url>
@@ -262,6 +287,31 @@
             <tag> 国漫 </tag>
             
             <tag> 天行九歌 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>从你的全世界路过有感</title>
+      <link href="/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/"/>
+      <url>/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/</url>
+      
+        <content type="html"><![CDATA[<p>四季总有一次凋零，结果无数次凋零。相爱总有一次分离，结果无数次分离。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 从你的全世界路过 </tag>
             
         </tags>
       
