@@ -133,33 +133,6 @@
     
     
     <entry>
-      <title>刷题记录</title>
-      <link href="/code-record/shua-ti-ji-lu/"/>
-      <url>/code-record/shua-ti-ji-lu/</url>
-      
-        <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 刷题记录 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> leetcode </tag>
-            
-            <tag> c++ </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>DeepLearning占位</title>
       <link href="/deep-learning/record/"/>
       <url>/deep-learning/record/</url>
@@ -258,6 +231,33 @@
         <tags>
             
             <tag> 从你的全世界路过 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>刷题记录</title>
+      <link href="/code-record/shua-ti-ji-lu/"/>
+      <url>/code-record/shua-ti-ji-lu/</url>
+      
+        <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 刷题记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> leetcode </tag>
+            
+            <tag> c++ </tag>
             
         </tags>
       
