@@ -126,6 +126,29 @@
   </entry>
   
   <entry>
+    <title>刷题记录</title>
+    <link href="https://www.iamlgl.top/code-record/shua-ti-ji-lu/"/>
+    <id>https://www.iamlgl.top/code-record/shua-ti-ji-lu/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-05-02T02:04:28.248Z</updated>
+    
+    <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
+    
+    
+    <summary type="html">LeetCode刷题</summary>
+    
+    
+    
+    <category term="刷题记录" scheme="https://www.iamlgl.top/categories/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
+    
+    
+    <category term="leetcode" scheme="https://www.iamlgl.top/tags/leetcode/"/>
+    
+    <category term="c++" scheme="https://www.iamlgl.top/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
     <title>DeepLearning占位</title>
     <link href="https://www.iamlgl.top/deep-learning/record/"/>
     <id>https://www.iamlgl.top/deep-learning/record/</id>
@@ -174,25 +197,44 @@
   </entry>
   
   <entry>
-    <title>刷题记录</title>
-    <link href="https://www.iamlgl.top/code-record/shua-ti-ji-lu/"/>
-    <id>https://www.iamlgl.top/code-record/shua-ti-ji-lu/</id>
+    <title>蓝奏云打不开解决方案</title>
+    <link href="https://www.iamlgl.top/personal-essay/slovelanzouyun/"/>
+    <id>https://www.iamlgl.top/personal-essay/slovelanzouyun/</id>
     <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-05-02T02:04:28.248Z</updated>
+    <updated>2022-05-02T02:04:55.634Z</updated>
     
-    <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
-    
-    
-    <summary type="html">LeetCode刷题</summary>
+    <content type="html"><![CDATA[<p>一种可能是分享的下载地址失效了，实际上这种可能比较小，一般不会失效。</p><p>第二种可能也就是广为人之的蓝奏云打不开的情况，很多人在下载别人分享的蓝奏云链接的时候，存在打不开的情况。</p><p>现提供以下解决方案：</p><ul><li><p>1、删除链接前面的 “www.”</p></li><li><p>2、有时候电脑打不开，手机就可以，或手机连自家wifi打不开，换成数据流量或连别人家的wifi就可以。</p></li><li><p>3、”www”换成”pan”，或把“lanzous”中的”s”去掉，或换成i，或x等，有时会成功。</p></li><li><p>4、将“www”换成“iamlgl”，这是我网盘的二级域名，基本可以成功。</p></li></ul><p>注意：蓝奏云请使用浏览器打开，因为用微信打开是无法下载的。</p>]]></content>
     
     
+    <summary type="html">蓝奏云打不开解决方案</summary>
     
-    <category term="刷题记录" scheme="https://www.iamlgl.top/categories/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
     
     
-    <category term="leetcode" scheme="https://www.iamlgl.top/tags/leetcode/"/>
+    <category term="个人随笔" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="c++" scheme="https://www.iamlgl.top/tags/c/"/>
+    
+    <category term="蓝奏云" scheme="https://www.iamlgl.top/tags/%E8%93%9D%E5%A5%8F%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从你的全世界路过有感</title>
+    <link href="https://www.iamlgl.top/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/"/>
+    <id>https://www.iamlgl.top/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-05-02T02:05:03.421Z</updated>
+    
+    <content type="html"><![CDATA[<p>四季总有一次凋零，结果无数次凋零。相爱总有一次分离，结果无数次分离。</p>]]></content>
+    
+    
+    <summary type="html">从你的全世界路过有感</summary>
+    
+    
+    
+    <category term="个人随笔" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="从你的全世界路过" scheme="https://www.iamlgl.top/tags/%E4%BB%8E%E4%BD%A0%E7%9A%84%E5%85%A8%E4%B8%96%E7%95%8C%E8%B7%AF%E8%BF%87/"/>
     
   </entry>
   
@@ -239,48 +281,6 @@
     <category term="国漫" scheme="https://www.iamlgl.top/tags/%E5%9B%BD%E6%BC%AB/"/>
     
     <category term="天行九歌" scheme="https://www.iamlgl.top/tags/%E5%A4%A9%E8%A1%8C%E4%B9%9D%E6%AD%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>蓝奏云打不开解决方案</title>
-    <link href="https://www.iamlgl.top/personal-essay/slovelanzouyun/"/>
-    <id>https://www.iamlgl.top/personal-essay/slovelanzouyun/</id>
-    <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-05-02T02:04:55.634Z</updated>
-    
-    <content type="html"><![CDATA[<p>一种可能是分享的下载地址失效了，实际上这种可能比较小，一般不会失效。</p><p>第二种可能也就是广为人之的蓝奏云打不开的情况，很多人在下载别人分享的蓝奏云链接的时候，存在打不开的情况。</p><p>现提供以下解决方案：</p><ul><li><p>1、删除链接前面的 “www.”</p></li><li><p>2、有时候电脑打不开，手机就可以，或手机连自家wifi打不开，换成数据流量或连别人家的wifi就可以。</p></li><li><p>3、”www”换成”pan”，或把“lanzous”中的”s”去掉，或换成i，或x等，有时会成功。</p></li><li><p>4、将“www”换成“iamlgl”，这是我网盘的二级域名，基本可以成功。</p></li></ul><p>注意：蓝奏云请使用浏览器打开，因为用微信打开是无法下载的。</p>]]></content>
-    
-    
-    <summary type="html">蓝奏云打不开解决方案</summary>
-    
-    
-    
-    <category term="个人随笔" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="蓝奏云" scheme="https://www.iamlgl.top/tags/%E8%93%9D%E5%A5%8F%E4%BA%91/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>从你的全世界路过有感</title>
-    <link href="https://www.iamlgl.top/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/"/>
-    <id>https://www.iamlgl.top/personal-essay/cong-ni-de-quan-shi-jie-lu-guo-you-gan/</id>
-    <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-05-02T02:05:03.421Z</updated>
-    
-    <content type="html"><![CDATA[<p>四季总有一次凋零，结果无数次凋零。相爱总有一次分离，结果无数次分离。</p>]]></content>
-    
-    
-    <summary type="html">从你的全世界路过有感</summary>
-    
-    
-    
-    <category term="个人随笔" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="从你的全世界路过" scheme="https://www.iamlgl.top/tags/%E4%BB%8E%E4%BD%A0%E7%9A%84%E5%85%A8%E4%B8%96%E7%95%8C%E8%B7%AF%E8%BF%87/"/>
     
   </entry>
   
