@@ -81,31 +81,6 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/blog/hello-world/"/>
-      <url>/blog/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 个人博客 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> hello world </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>个人Blog搭建-hexo+butterfly（二）</title>
       <link href="/blog/blog2/"/>
       <url>/blog/blog2/</url>
@@ -187,6 +162,114 @@
     
     
     <entry>
+      <title>Hello World</title>
+      <link href="/blog/hello-world/"/>
+      <url>/blog/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hello world </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>秦时明月</title>
+      <link href="/qinshimingyue/qin-shi-ming-yue/"/>
+      <url>/qinshimingyue/qin-shi-ming-yue/</url>
+      
+        <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 秦时明月 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 秦时明月 </tag>
+            
+            <tag> 国漫 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>DeepLearning占位</title>
+      <link href="/deep-learning/record/"/>
+      <url>/deep-learning/record/</url>
+      
+        <content type="html"><![CDATA[<p>占位</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 深度学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> python </tag>
+            
+            <tag> deeplearning </tag>
+            
+            <tag> pytorch </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>天行九歌</title>
+      <link href="/tianxingjiuge/tian-xing-jiu-ge/"/>
+      <url>/tianxingjiuge/tian-xing-jiu-ge/</url>
+      
+        <content type="html"><![CDATA[<p>天行九歌，是秦时明月升起于苍穹之前的号角声，是战国末年一幕冰与火的悲歌，是烧脑挑战智商的权谋史诗！</p><p>面对着强邻秦国的步步紧逼，危若累卵的韩国却依然黑幕重重。大将军姬无夜依靠手下“夜幕四凶将”，垄断了韩国的军事、政治、经济……几乎一切领域，并且有计划地扑灭所有可能带领韩国复兴的希望。面对如此残酷的局面，从齐国学成归来的王室子弟韩非，凭着惊才绝艳的智慧，与鬼谷传人卫庄联手组建了体现法家精神的“流沙”组织，带领张良、紫女等人与姬无夜的黑暗势力进行了惊心动魄的对决。</p><p>“天行九歌”虽是“秦时明月”的姐妹篇，却自成体系，不但融合了悬疑推理、宫斗阴谋、间谍反间等等高智商的剧情，而且大胆探索中国动画前所未有的领域，尝试将高大上的学术理念以现代娱乐的方式呈现给观众，其中的金融战、博弈论等等，更是中国动画中的首创，绝对会带给观众完全不同以往的全新体验。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 天行九歌 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 国漫 </tag>
+            
+            <tag> 天行九歌 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>蓝奏云打不开解决方案</title>
       <link href="/personal-essay/slovelanzouyun/"/>
       <url>/personal-essay/slovelanzouyun/</url>
@@ -229,89 +312,6 @@
         <tags>
             
             <tag> 从你的全世界路过 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>DeepLearning占位</title>
-      <link href="/deep-learning/record/"/>
-      <url>/deep-learning/record/</url>
-      
-        <content type="html"><![CDATA[<p>占位</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 深度学习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> python </tag>
-            
-            <tag> deeplearning </tag>
-            
-            <tag> pytorch </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>秦时明月</title>
-      <link href="/qinshimingyue/qin-shi-ming-yue/"/>
-      <url>/qinshimingyue/qin-shi-ming-yue/</url>
-      
-        <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 秦时明月 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 秦时明月 </tag>
-            
-            <tag> 国漫 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>天行九歌</title>
-      <link href="/tianxingjiuge/tian-xing-jiu-ge/"/>
-      <url>/tianxingjiuge/tian-xing-jiu-ge/</url>
-      
-        <content type="html"><![CDATA[<p>天行九歌，是秦时明月升起于苍穹之前的号角声，是战国末年一幕冰与火的悲歌，是烧脑挑战智商的权谋史诗！</p><p>面对着强邻秦国的步步紧逼，危若累卵的韩国却依然黑幕重重。大将军姬无夜依靠手下“夜幕四凶将”，垄断了韩国的军事、政治、经济……几乎一切领域，并且有计划地扑灭所有可能带领韩国复兴的希望。面对如此残酷的局面，从齐国学成归来的王室子弟韩非，凭着惊才绝艳的智慧，与鬼谷传人卫庄联手组建了体现法家精神的“流沙”组织，带领张良、紫女等人与姬无夜的黑暗势力进行了惊心动魄的对决。</p><p>“天行九歌”虽是“秦时明月”的姐妹篇，却自成体系，不但融合了悬疑推理、宫斗阴谋、间谍反间等等高智商的剧情，而且大胆探索中国动画前所未有的领域，尝试将高大上的学术理念以现代娱乐的方式呈现给观众，其中的金融战、博弈论等等，更是中国动画中的首创，绝对会带给观众完全不同以往的全新体验。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 天行九歌 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 国漫 </tag>
-            
-            <tag> 天行九歌 </tag>
             
         </tags>
       
