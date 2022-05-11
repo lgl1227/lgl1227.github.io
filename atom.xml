@@ -59,27 +59,48 @@
   </entry>
   
   <entry>
-    <title>DeepLearning占位</title>
-    <link href="https://www.iamlgl.top/deep-learning/record/"/>
-    <id>https://www.iamlgl.top/deep-learning/record/</id>
+    <title>刷题记录</title>
+    <link href="https://www.iamlgl.top/code-record/shua-ti-ji-lu/"/>
+    <id>https://www.iamlgl.top/code-record/shua-ti-ji-lu/</id>
     <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-05-02T02:04:39.169Z</updated>
+    <updated>2022-05-02T02:04:28.248Z</updated>
     
-    <content type="html"><![CDATA[<p>占位</p>]]></content>
-    
-    
-    <summary type="html">DeepLearning占位</summary>
+    <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
     
     
+    <summary type="html">LeetCode刷题</summary>
     
-    <category term="深度学习" scheme="https://www.iamlgl.top/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="python" scheme="https://www.iamlgl.top/tags/python/"/>
+    <category term="刷题记录" scheme="https://www.iamlgl.top/categories/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
     
-    <category term="deeplearning" scheme="https://www.iamlgl.top/tags/deeplearning/"/>
     
-    <category term="pytorch" scheme="https://www.iamlgl.top/tags/pytorch/"/>
+    <category term="leetcode" scheme="https://www.iamlgl.top/tags/leetcode/"/>
+    
+    <category term="c++" scheme="https://www.iamlgl.top/tags/c/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>个人Blog搭建-hexo+butterfly（一）</title>
+    <link href="https://www.iamlgl.top/blog/blog/"/>
+    <id>https://www.iamlgl.top/blog/blog/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-05-02T02:08:06.593Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>首先</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>其次</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>然后<br><br></p><script type="math/tex; mode=display">    H_{n}=\frac{n}{\sum \limits_{i=1}^{n}\frac{1}{x_{i}}}= \frac{n}{\frac{1}{x_{1}}+ \frac{1}{x_{2}}+ \cdots + \frac{1}{x_{n}}}\\</script><script type="math/tex; mode=display">    G_{n}=\sqrt[n]{\prod \limits_{i=1}^{n}x_{i}}= \sqrt[n]{x_{1}x_{2}\cdots x_{n}}\\</script><script type="math/tex; mode=display">      A_{n}=\frac{1}{n}\sum \limits_{i=1}^{n}x_{i}=\frac{x_{1}+ x_{2}+ \cdots + x_{n}}{n}\\</script><script type="math/tex; mode=display">    Q_{n}=\sqrt{\sum \limits_{i=1}^{n}x_{i}^{2}}= \sqrt{\frac{x_{1}^{2}+ x_{2}^{2}+ \cdots + x_{n}^{2}}{n}}\\</script><script type="math/tex; mode=display">    H_{n}\leq G_{n}\leq A_{n}\leq Q_{n}</script><p><br><br>臣亮言：<mark class="hl-label default">先帝</mark> 创业未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此诚<mark class="hl-label red">危急存亡之秋</mark> 也！然侍卫之臣，不懈于内；<mark class="hl-label purple">忠志之士</mark> ，忘身于外者，盖追先帝之殊遇，欲报之于陛下也。诚宜开张圣听，以光先帝遗德，恢弘志士之气；不宜妄自菲薄，引喻失义，以塞忠谏之路也。<br>宫中、府中，俱为一体；陟罚臧否，不宜异同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及为忠善者，宜付有司，论其刑赏，以昭陛下平明之治；不宜偏私，使内外异法也。</p>]]></content>
+    
+    
+    <summary type="html">个人博客搭建笔记（一）</summary>
+    
+    
+    
+    <category term="个人博客" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="hexo" scheme="https://www.iamlgl.top/tags/hexo/"/>
+    
+    <category term="butterfly" scheme="https://www.iamlgl.top/tags/butterfly/"/>
     
   </entry>
   
@@ -128,25 +149,27 @@
   </entry>
   
   <entry>
-    <title>个人Blog搭建-hexo+butterfly（一）</title>
-    <link href="https://www.iamlgl.top/blog/blog/"/>
-    <id>https://www.iamlgl.top/blog/blog/</id>
+    <title>DeepLearning占位</title>
+    <link href="https://www.iamlgl.top/deep-learning/record/"/>
+    <id>https://www.iamlgl.top/deep-learning/record/</id>
     <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-05-02T02:08:06.593Z</updated>
+    <updated>2022-05-02T02:04:39.169Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>首先</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>其次</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>然后<br><br></p><script type="math/tex; mode=display">    H_{n}=\frac{n}{\sum \limits_{i=1}^{n}\frac{1}{x_{i}}}= \frac{n}{\frac{1}{x_{1}}+ \frac{1}{x_{2}}+ \cdots + \frac{1}{x_{n}}}\\</script><script type="math/tex; mode=display">    G_{n}=\sqrt[n]{\prod \limits_{i=1}^{n}x_{i}}= \sqrt[n]{x_{1}x_{2}\cdots x_{n}}\\</script><script type="math/tex; mode=display">      A_{n}=\frac{1}{n}\sum \limits_{i=1}^{n}x_{i}=\frac{x_{1}+ x_{2}+ \cdots + x_{n}}{n}\\</script><script type="math/tex; mode=display">    Q_{n}=\sqrt{\sum \limits_{i=1}^{n}x_{i}^{2}}= \sqrt{\frac{x_{1}^{2}+ x_{2}^{2}+ \cdots + x_{n}^{2}}{n}}\\</script><script type="math/tex; mode=display">    H_{n}\leq G_{n}\leq A_{n}\leq Q_{n}</script><p><br><br>臣亮言：<mark class="hl-label default">先帝</mark> 创业未半，而<mark class="hl-label blue">中道崩殂</mark> 。今天下三分，<mark class="hl-label pink">益州疲敝</mark> ，此诚<mark class="hl-label red">危急存亡之秋</mark> 也！然侍卫之臣，不懈于内；<mark class="hl-label purple">忠志之士</mark> ，忘身于外者，盖追先帝之殊遇，欲报之于陛下也。诚宜开张圣听，以光先帝遗德，恢弘志士之气；不宜妄自菲薄，引喻失义，以塞忠谏之路也。<br>宫中、府中，俱为一体；陟罚臧否，不宜异同。若有<mark class="hl-label orange">作奸</mark> 、<mark class="hl-label green">犯科</mark> ，及为忠善者，宜付有司，论其刑赏，以昭陛下平明之治；不宜偏私，使内外异法也。</p>]]></content>
-    
-    
-    <summary type="html">个人博客搭建笔记（一）</summary>
+    <content type="html"><![CDATA[<p>占位</p>]]></content>
     
     
+    <summary type="html">DeepLearning占位</summary>
     
-    <category term="个人博客" scheme="https://www.iamlgl.top/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
     
     
-    <category term="hexo" scheme="https://www.iamlgl.top/tags/hexo/"/>
+    <category term="深度学习" scheme="https://www.iamlgl.top/categories/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="butterfly" scheme="https://www.iamlgl.top/tags/butterfly/"/>
+    
+    <category term="python" scheme="https://www.iamlgl.top/tags/python/"/>
+    
+    <category term="deeplearning" scheme="https://www.iamlgl.top/tags/deeplearning/"/>
+    
+    <category term="pytorch" scheme="https://www.iamlgl.top/tags/pytorch/"/>
     
   </entry>
   
@@ -193,6 +216,29 @@
   </entry>
   
   <entry>
+    <title>MachineLearning占位</title>
+    <link href="https://www.iamlgl.top/machine-learning/record/"/>
+    <id>https://www.iamlgl.top/machine-learning/record/</id>
+    <published>2022-04-27T16:00:00.000Z</published>
+    <updated>2022-05-02T02:04:50.042Z</updated>
+    
+    <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
+    
+    
+    <summary type="html">MachineLearning占位</summary>
+    
+    
+    
+    <category term="机器学习" scheme="https://www.iamlgl.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="python" scheme="https://www.iamlgl.top/tags/python/"/>
+    
+    <category term="machinelearning" scheme="https://www.iamlgl.top/tags/machinelearning/"/>
+    
+  </entry>
+  
+  <entry>
     <title>秦时明月</title>
     <link href="https://www.iamlgl.top/qinshimingyue/qin-shi-ming-yue/"/>
     <id>https://www.iamlgl.top/qinshimingyue/qin-shi-ming-yue/</id>
@@ -235,52 +281,6 @@
     <category term="国漫" scheme="https://www.iamlgl.top/tags/%E5%9B%BD%E6%BC%AB/"/>
     
     <category term="天行九歌" scheme="https://www.iamlgl.top/tags/%E5%A4%A9%E8%A1%8C%E4%B9%9D%E6%AD%8C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>刷题记录</title>
-    <link href="https://www.iamlgl.top/code-record/shua-ti-ji-lu/"/>
-    <id>https://www.iamlgl.top/code-record/shua-ti-ji-lu/</id>
-    <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-05-02T02:04:28.248Z</updated>
-    
-    <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
-    
-    
-    <summary type="html">LeetCode刷题</summary>
-    
-    
-    
-    <category term="刷题记录" scheme="https://www.iamlgl.top/categories/%E5%88%B7%E9%A2%98%E8%AE%B0%E5%BD%95/"/>
-    
-    
-    <category term="leetcode" scheme="https://www.iamlgl.top/tags/leetcode/"/>
-    
-    <category term="c++" scheme="https://www.iamlgl.top/tags/c/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MachineLearning占位</title>
-    <link href="https://www.iamlgl.top/machine-learning/record/"/>
-    <id>https://www.iamlgl.top/machine-learning/record/</id>
-    <published>2022-04-27T16:00:00.000Z</published>
-    <updated>2022-05-02T02:04:50.042Z</updated>
-    
-    <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
-    
-    
-    <summary type="html">MachineLearning占位</summary>
-    
-    
-    
-    <category term="机器学习" scheme="https://www.iamlgl.top/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="python" scheme="https://www.iamlgl.top/tags/python/"/>
-    
-    <category term="machinelearning" scheme="https://www.iamlgl.top/tags/machinelearning/"/>
     
   </entry>
   
