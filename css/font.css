@@ -136,6 +136,9 @@
     src:url('https://cdn.jsdelivr.net/gh/lgl1227/CDN@master/thumb/kaiti.ttf'); /* 修改成你的字体 */
     font-display:swap
 }
+body {
+    font-family: "Microsoft YaHei", 'FiraCode';
+}
 h1#site-title {
     font-family:arzhu!important
 }
