@@ -133,7 +133,7 @@
 /*首页字体修改*/
 @font-face {
     font-family:'arzhu';
-    src:url('https://cdn.jsdelivr.net/gh/lgl1227/CDN@master/thumb/Candy.ttf'); /* 修改成你的字体 */
+    src:url('https://cdn.jsdelivr.net/gh/lgl1227/CDN@master/thumb/kaiti.ttf'); /* 修改成你的字体 */
     font-display:swap
 }
 body {
