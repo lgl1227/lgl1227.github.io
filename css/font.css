@@ -133,11 +133,11 @@
 /*首页字体修改*/
 @font-face {
     font-family:'arzhu';
-    src:url('https://cdn.jsdelivr.net/gh/lgl1227/CDN@master/thumb/kaiti.ttf'); /* 修改成你的字体 */
+    src:url('https://cdn.jsdelivr.net/gh/lgl1227/CDN@master/thumb/Candy.ttf'); /* 修改成你的字体 */
     font-display:swap
 }
 body {
-    font-family: 'arzhu';
+   font-family: 'arzhu';
 }
 h1#site-title {
     font-family:arzhu!important
@@ -182,3 +182,6 @@ a#site-name {
   color: #fff;
   background-color: #49b1f5;
 }
+h1 {font-size:250%}
+h2 {font-size:200%}
+p {font-size:110%}
