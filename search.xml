@@ -81,25 +81,27 @@
     
     
     <entry>
-      <title>个人Blog搭建-hexo+butterfly（二）</title>
-      <link href="/blog/blog2/"/>
-      <url>/blog/blog2/</url>
+      <title>DeepLearning占位</title>
+      <link href="/deep-learning/record/"/>
+      <url>/deep-learning/record/</url>
       
-        <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>首先</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>其次</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>然后</p><div class="table-container"><table><thead><tr><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&show_owner=true"/></a></th><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=vue&show_owner=true"/></a></th></tr></thead><tbody><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=buefy&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-light&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=onedark&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-dark&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=algolia&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=calm&show_owner=true"/></a></td></tr></tbody></table></div>]]></content>
+        <content type="html"><![CDATA[<p>占位</p>]]></content>
       
       
       <categories>
           
-          <category> 个人博客 </category>
+          <category> 深度学习 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> hexo </tag>
+            <tag> python </tag>
             
-            <tag> butterfly </tag>
+            <tag> deeplearning </tag>
+            
+            <tag> pytorch </tag>
             
         </tags>
       
@@ -133,62 +135,6 @@
     
     
     <entry>
-      <title>刷题记录</title>
-      <link href="/code-record/shua-ti-ji-lu/"/>
-      <url>/code-record/shua-ti-ji-lu/</url>
-      
-        <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 刷题记录 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> leetcode </tag>
-            
-            <tag> c++ </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>DeepLearning占位</title>
-      <link href="/deep-learning/record/"/>
-      <url>/deep-learning/record/</url>
-      
-        <content type="html"><![CDATA[<p>占位</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 深度学习 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> python </tag>
-            
-            <tag> deeplearning </tag>
-            
-            <tag> pytorch </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>MachineLearning占位</title>
       <link href="/machine-learning/record/"/>
       <url>/machine-learning/record/</url>
@@ -208,6 +154,87 @@
             <tag> python </tag>
             
             <tag> machinelearning </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>天行九歌</title>
+      <link href="/tianxingjiuge/tian-xing-jiu-ge/"/>
+      <url>/tianxingjiuge/tian-xing-jiu-ge/</url>
+      
+        <content type="html"><![CDATA[<p>天行九歌，是秦时明月升起于苍穹之前的号角声，是战国末年一幕冰与火的悲歌，是烧脑挑战智商的权谋史诗！</p><p>面对着强邻秦国的步步紧逼，危若累卵的韩国却依然黑幕重重。大将军姬无夜依靠手下“夜幕四凶将”，垄断了韩国的军事、政治、经济……几乎一切领域，并且有计划地扑灭所有可能带领韩国复兴的希望。面对如此残酷的局面，从齐国学成归来的王室子弟韩非，凭着惊才绝艳的智慧，与鬼谷传人卫庄联手组建了体现法家精神的“流沙”组织，带领张良、紫女等人与姬无夜的黑暗势力进行了惊心动魄的对决。</p><p>“天行九歌”虽是“秦时明月”的姐妹篇，却自成体系，不但融合了悬疑推理、宫斗阴谋、间谍反间等等高智商的剧情，而且大胆探索中国动画前所未有的领域，尝试将高大上的学术理念以现代娱乐的方式呈现给观众，其中的金融战、博弈论等等，更是中国动画中的首创，绝对会带给观众完全不同以往的全新体验。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 天行九歌 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 天行九歌 </tag>
+            
+            <tag> 国漫 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>秦时明月</title>
+      <link href="/qinshimingyue/qin-shi-ming-yue/"/>
+      <url>/qinshimingyue/qin-shi-ming-yue/</url>
+      
+        <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 秦时明月 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 国漫 </tag>
+            
+            <tag> 秦时明月 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>个人Blog搭建-hexo+butterfly（二）</title>
+      <link href="/blog/blog2/"/>
+      <url>/blog/blog2/</url>
+      
+        <content type="html"><![CDATA[<h2 id="1"><a href="#1" class="headerlink" title="1"></a>1</h2><p>首先</p><h2 id="2"><a href="#2" class="headerlink" title="2"></a>2</h2><p>其次</p><h2 id="3"><a href="#3" class="headerlink" title="3"></a>3</h2><p>然后</p><div class="table-container"><table><thead><tr><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&show_owner=true"/></a></th><th><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=vue&show_owner=true"/></a></th></tr></thead><tbody><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=buefy&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-light&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=onedark&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=solarized-dark&show_owner=true"/></a></td></tr><tr><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=algolia&show_owner=true"/></a></td><td><a class="ghcard" rel="external nofollow noopener noreferrer" href="https://github.com/xaoxuu"><img src="https://github-readme-stats.vercel.app/api/?username=xaoxuu&theme=calm&show_owner=true"/></a></td></tr></tbody></table></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> butterfly </tag>
             
         </tags>
       
@@ -266,52 +293,25 @@
     
     
     <entry>
-      <title>秦时明月</title>
-      <link href="/qinshimingyue/qin-shi-ming-yue/"/>
-      <url>/qinshimingyue/qin-shi-ming-yue/</url>
+      <title>刷题记录</title>
+      <link href="/code-record/shua-ti-ji-lu/"/>
+      <url>/code-record/shua-ti-ji-lu/</url>
       
-        <content type="html"><![CDATA[<p>zhanwei</p>]]></content>
+        <content type="html"><![CDATA[<p>刷题记录</p>]]></content>
       
       
       <categories>
           
-          <category> 秦时明月 </category>
+          <category> 刷题记录 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 秦时明月 </tag>
+            <tag> leetcode </tag>
             
-            <tag> 国漫 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>天行九歌</title>
-      <link href="/tianxingjiuge/tian-xing-jiu-ge/"/>
-      <url>/tianxingjiuge/tian-xing-jiu-ge/</url>
-      
-        <content type="html"><![CDATA[<p>天行九歌，是秦时明月升起于苍穹之前的号角声，是战国末年一幕冰与火的悲歌，是烧脑挑战智商的权谋史诗！</p><p>面对着强邻秦国的步步紧逼，危若累卵的韩国却依然黑幕重重。大将军姬无夜依靠手下“夜幕四凶将”，垄断了韩国的军事、政治、经济……几乎一切领域，并且有计划地扑灭所有可能带领韩国复兴的希望。面对如此残酷的局面，从齐国学成归来的王室子弟韩非，凭着惊才绝艳的智慧，与鬼谷传人卫庄联手组建了体现法家精神的“流沙”组织，带领张良、紫女等人与姬无夜的黑暗势力进行了惊心动魄的对决。</p><p>“天行九歌”虽是“秦时明月”的姐妹篇，却自成体系，不但融合了悬疑推理、宫斗阴谋、间谍反间等等高智商的剧情，而且大胆探索中国动画前所未有的领域，尝试将高大上的学术理念以现代娱乐的方式呈现给观众，其中的金融战、博弈论等等，更是中国动画中的首创，绝对会带给观众完全不同以往的全新体验。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 天行九歌 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 国漫 </tag>
-            
-            <tag> 天行九歌 </tag>
+            <tag> c++ </tag>
             
         </tags>
       
